@@ -10,5 +10,8 @@ I made some silly mistake duing that interview, and now i am preparing myself be
 
 
 
+While preparing for the interview, I would also use cursor IDE. So i will try to use AI to learn all the stuffs as fast as possible. 
+
+lets see how it goes.
 
 Why I'm sharing this ?
