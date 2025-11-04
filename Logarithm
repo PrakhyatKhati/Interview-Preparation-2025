@@ -1,0 +1,19 @@
+## Log(N) means in the context of complexity analysis.
+
+log b (x)=y   if and only if  b^y=x ;
+
+When we talk about log, we need to talk about the base,
+when we talk about when we talk about log, the default base is 2.
+
+In math the log was base 10, but in computer- 2 is the best one.
+
+here N is the input, 
+so log(n) is good as input doubles, the nunber of elementary operations that in the algorithm only increase by 1.
+
+so O(log(n)) > O(n)
+
+for example, 2^20 == some million where are 2^30 == some billion, so here the complexity of log(n) really understand the complexity where,
+the complexity doesnot increase as compared to how the input has increased significently.
+
+
+
